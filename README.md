@@ -87,6 +87,6 @@ This dashboard solves these challenges through centralized KPIs and interactive 
 
 ## 📂 Project Files
 - Power BI Dashboard : https://github.com/VishalPanchal077/Netflix-Movies-and-TV-Shows-Content-Analysis/blob/main/Netflix_Project.pbix
-- Netflix Dataset (CSV)   
+- Netflix Dataset : https://github.com/VishalPanchal077/Netflix-Movies-and-TV-Shows-Content-Analysis/blob/main/netflix_titles_rowdata.csv   
 - Dashboard Screenshots : <img width="1428" height="796" alt="Dashboard Image" src="https://github.com/user-attachments/assets/a9ea0968-9e93-4475-8fe0-fb7626879f3b" />
  
